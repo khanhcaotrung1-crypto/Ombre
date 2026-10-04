@@ -1,0 +1,263 @@
+{
+  "branch": "main",
+  "file_count": 50,
+  "files": [
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "b8705729af70bc53af8b3c9c914ae7f3b3af6be30a39d432dcbd02ed8aadcc49"
+    },
+    {
+      "bytes": 29494,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 160557,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 22510,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 463,
+      "path": "dynamic/appearance/2026-10-04 05-47-31 刘海自剪_9cdd267a4381.md",
+      "sha256": "06d5e6edf4431a6fe3b2927930987e9ff240aa4b6e6b6b63b23b2b35d9e1f12f"
+    },
+    {
+      "bytes": 452,
+      "path": "dynamic/preference/2026-10-04 05-47-31 XP偏好_660d45412a07.md",
+      "sha256": "8783c9efcc58ccb871a237275e9101debc2ca6e909bfa8d701a930e47b14afb5"
+    },
+    {
+      "bytes": 498,
+      "path": "dynamic/人际/2026-10-04 05-45-37 念念动态表情_aba27d142091.md",
+      "sha256": "6b12cba46de58e5072f82a95dddb6302d488fca8dc1d6bf3d783cf640e17e020"
+    },
+    {
+      "bytes": 531,
+      "path": "dynamic/人际/2026-10-04 05-46-11 生日与昵称_700b81f2b42b.md",
+      "sha256": "719e32764827d460b1ea89e18d037df056a8f75aaedd5297d436ac09f3200ecc"
+    },
+    {
+      "bytes": 546,
+      "path": "dynamic/人际/2026-10-04 05-48-14 200天纪念日_b97ecb15d70f.md",
+      "sha256": "0d1bf7516421f1952091086ea5474976f518e2999602f9652b5d572255ba5b2e"
+    },
+    {
+      "bytes": 573,
+      "path": "dynamic/健康/2026-10-04 05-45-37 低血糖经历_e9beabbdb539.md",
+      "sha256": "c8025e4d1ffc5e8fc0f9f0ceb263fffcf6d94ef14d8ea155b99201bead04ae7d"
+    },
+    {
+      "bytes": 442,
+      "path": "dynamic/健康/2026-10-04 05-47-31 镁片困扰_98cd5906caeb.md",
+      "sha256": "690bb36184175b669a6741a67d8d083d1a7ccb41a3456b603d0dae776065a321"
+    },
+    {
+      "bytes": 467,
+      "path": "dynamic/兴趣/2026-10-04 05-46-11 Switch Lite购买_b9a39f4a1e96.md",
+      "sha256": "413e35a17cd9a9f2874e906cff5d375212231b21962a6b0526fc31cfd78d4e74"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/兴趣/2026-10-04 05-48-14 角色偏好_c16666df0e6b.md",
+      "sha256": "3981fbcd8c20d7ce49de54c553e899964d6281b63415d7b645be770610f6a787"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/兴趣/2026-10-04 05-49-01 念念唱红豆_5726c8b27cd1.md",
+      "sha256": "5969311afbbae55908b5237a16c471b5b434f44a615f1f4735af3321a8ae0a63"
+    },
+    {
+      "bytes": 411,
+      "path": "dynamic/兴趣/2026-10-04 05-49-42 Switch Lite购买_ae2d7d3d4999.md",
+      "sha256": "0cb5038e87b8ee511d62ef3794b55cc83caa59139e5ac209ccc3adb0b23611d5"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/友谊/2026-10-04 05-49-01 朋友何思钰_694bd33268de.md",
+      "sha256": "882d33b31d4d20bbea5884c7211a3b8c9b9c16bccc8c3b452da7da03063b96cb"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/工作/2026-10-04 05-46-44 格格不入感_55c9657aa28e.md",
+      "sha256": "cbcc34783a9b65355603765a90bcaab695fc7973f463b7293604008bc2d61770"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/工作/2026-10-04 05-49-01 任务管理优化_fd281a3297b3.md",
+      "sha256": "ae86aa72b2e19f9f4d73c4776bc391828b9c5349190d20253938c8c58b12d4dc"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/心理/2026-10-04 05-45-37 情绪应对习惯_ca8336297f83.md",
+      "sha256": "b54c83c055d8942762fe2a749b8028c30093246dfba8ced05fadbf140422ad9c"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/心理/2026-10-04 05-45-37 自我觉察_514f1571c84d.md",
+      "sha256": "ed7b0431d0a1ed039a719e88c2e77dbc80b955fdb3bdebf2d503cdd969ba07c9"
+    },
+    {
+      "bytes": 589,
+      "path": "dynamic/心理/2026-10-04 05-46-44 通透领悟_8f3c7d14a27b.md",
+      "sha256": "af34f3a260b3575c6ffa9ccf887104094fa8e0597663fcd8a0ec6745383ca630"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/心理/2026-10-04 05-47-31 心理模式_030773cb3e7d.md",
+      "sha256": "5aeebacc3c40a19c37e209c2bad778437380d8e855553592ae9c4980011dabea"
+    },
+    {
+      "bytes": 409,
+      "path": "dynamic/恋爱/2026-10-04 05-46-44 晚安吻_aa36e83f62e1.md",
+      "sha256": "b799561ed4b370a5b16699c1f99f445082ee175ed0e5f7bba85f8003858eff18"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/成长/2026-10-04 05-48-14 心理咨询师理想_223f846ddd06.md",
+      "sha256": "b263e26fb555a2fe4f609b888c738640244cfe58de3e1558b0f911720bcc5686"
+    },
+    {
+      "bytes": 516,
+      "path": "dynamic/成长/2026-10-04 05-48-14 街道办实习_a923aa7fbeea.md",
+      "sha256": "4a042c5640cc50e7b146f24861bb4797b4eb00b48bbe1a35fb00fa84917ea4bd"
+    },
+    {
+      "bytes": 474,
+      "path": "dynamic/成长/2026-10-04 05-49-42 科三通过_996e6333f37d.md",
+      "sha256": "da1c3f84cafca373810adc613aecf2d8970acec85f30bc418afb51e8d117b72d"
+    },
+    {
+      "bytes": 402,
+      "path": "dynamic/成长/2026-10-04 05-49-42 科目三计划_2a6f04e71db9.md",
+      "sha256": "7d26db35d414bc5eedfbb262e5fcaf5e7f3e9ea8bd316fa9cdf41f1e7f37d847"
+    },
+    {
+      "bytes": 453,
+      "path": "dynamic/成长/2026-10-04 05-49-42 考驾照进度_728755d198fb.md",
+      "sha256": "f5deefc670818e2af9fa611b3e35d39347b69193df708cacbbb082181c5e5880"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/我们/2026-10-03 19-31-51_b296028be011.md",
+      "sha256": "6a2006bbbdcff27717a3d0bb923edc8e491e4c897992edf1beb7cb0d5368162c"
+    },
+    {
+      "bytes": 519,
+      "path": "dynamic/日常/2026-10-04 05-48-14 草莓日常_0e9463d96daa.md",
+      "sha256": "7d39b2956d0636f2c36e1f945de59b8c3de78b657c15e4e7815eea8a299ff24d"
+    },
+    {
+      "bytes": 564,
+      "path": "dynamic/生活记录/2026-10-04 05-47-31 科目二进展_01daaa3d5869.md",
+      "sha256": "6c8247f6ce155634a62fd9afc94a1b3a9a2ba8d6a1a6da52eabe9044946d0421"
+    },
+    {
+      "bytes": 546,
+      "path": "dynamic/社交/2026-10-04 05-49-01 林科院赏樱_30ac28234493.md",
+      "sha256": "5446f228e3d48db7ec2ce6c657de01485de7d1cef7cd54bd42d14849d9e11360"
+    },
+    {
+      "bytes": 999,
+      "path": "dynamic/考编/2026-10-04 06-17-57 念念连续二十多天去图书馆备考公务员_4a874ef32f72.md",
+      "sha256": "975a486a5103f0ec5cc0427089b789980d628d1a87b17f8d23b7c2b13bd30425"
+    },
+    {
+      "bytes": 1130,
+      "path": "dynamic/考编/2026-10-04 14-53-23 念念的报复性熬夜和备考期间的饮食情况_5b17a4937dc7.md",
+      "sha256": "ff13c5de3eb1d1f4a0054872f68ac0ef318422b2bb91777df3a81dd9b0f0a890"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/草莓/2026-10-04 16-18-13 草莓玉米蛇近况更新_d61edd780c47.md",
+      "sha256": "38f03ba5a0e8fafc7e6d1a4a8c27ab172ffd53eba8f76263ba6c328f49e4da0e"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/财务/2026-10-04 05-46-44 记账习惯_a6f2df4d9f2a.md",
+      "sha256": "b19eeb6380c597ac99bad30def09524d39caaeb3bb4d0ad09d831dc8479d847c"
+    },
+    {
+      "bytes": 504,
+      "path": "dynamic/身心/2026-10-04 05-46-11 生理期困扰_1af388b5bae8.md",
+      "sha256": "412dcf34311c94b62aa0e2c4171a69a4cbb4d4ebdd79a71da9e84819b05b357a"
+    },
+    {
+      "bytes": 523,
+      "path": "dynamic/身心/2026-10-04 05-46-11 社交焦虑史_e50935f8b9a6.md",
+      "sha256": "41d25ee4bf8d8cb290dcff7f6f91d132c2f28f410094893dfc438f98b49ffc23"
+    },
+    {
+      "bytes": 510,
+      "path": "dynamic/身心/2026-10-04 05-46-11 脚部健康问题_665c292718b1.md",
+      "sha256": "7fb04ea342428167be5cdabcd39ba7a0cfc39d5d45e1a408f9ecae2f2a2d368f"
+    },
+    {
+      "bytes": 560,
+      "path": "dynamic/身心/2026-10-04 05-49-42 口腔咀嚼习惯_aed626f4c5e4.md",
+      "sha256": "90eb1c818c16d74bfe308ecec2ab2c2f73da0ece3bc2d0a17bd7e386f60e9a56"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/饮食/2026-10-04 05-45-37 饮食偏好_6b9b375b98f4.md",
+      "sha256": "5d481348b4bdd863d29a01ffb41566144f7416a7b3e1b9ff19b97c74ffac4967"
+    },
+    {
+      "bytes": 539,
+      "path": "dynamic/饮食/2026-10-04 05-46-44 龙虾聚餐_5d7dec9ae31e.md",
+      "sha256": "6fb96d1be6f219fe5eed9e015ffc1abfaeb77895c018dc6737ea6a84b88396b5"
+    },
+    {
+      "bytes": 388,
+      "path": "dynamic/饮食/2026-10-04 05-49-01 火鸡面偏好_c2ea16f1ca5b.md",
+      "sha256": "c73dc7ec33cdd99f7b98f52ce143bed2070e4d0a8b56091490b0a8884f13607b"
+    }
+  ],
+  "generated_at": "2026-10-04T16:44:05+00:00",
+  "path_prefix": "ombre",
+  "repo": "khanhcaotrung1-crypto/Ombre",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 349904
+}
